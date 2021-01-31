@@ -1,0 +1,7 @@
+@import "imported.css";
+ul {
+  color: red;
+}
+ul li {
+  text-decoration: underline;
+}
