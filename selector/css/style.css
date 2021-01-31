@@ -1,0 +1,40 @@
+.menu {
+  color: rgb(216, 142, 191);
+  background: rgb(189, 207, 189);
+  font-size: 35px;
+}
+
+p
+  color: crimson;
+}
+
+.active {
+  text-decoration: underline;
+}
+
+#box {
+  text-decoration: underline;
+}
+
+.input-text {
+  color: darkorchid;
+}
+
+.main-link {
+  color: black;
+  text-decoration: line-through;
+}
+div p {
+  color: darkgreen;
+}
+
+
+.menu .menu-item>a + ul{
+    color: salmon;
+    background: seagreen;
+}
+
+div+p {
+    background: black;
+    color: cornsilk;
+}
